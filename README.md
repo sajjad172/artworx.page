@@ -100,13 +100,13 @@ margin-top: -6px;
 
 <img src="https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-15/e35/152747673_1295424060858581_9112654619360405392_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=4PA63eOY2C8AX8-Wf7p&tp=1&oh=b0e8b909f63acf2c0d7c3b0746ab75dc&oe=605F86B9&ig_cache_key=MjUxNTc0Mzc0ODc5ODI1NzU4MA%3D%3D.2" width= "300" height= "300">
 <div style="text-align:center">
-<em><strong><h3> Welcome to our art page where you will see all different types of art, have a great experience looking at our art! </em></strong></h3>
+<em><strong><h3> Welcome to our art page where you will see all different types of art, have a great experience looking at our art! </strong></em></h3>
 </div>
 <br>
 <div style="text-align:center">
 <em><strong><h1 style="color:red ;">Artwork #1</h1></strong></em>
 </div>
-<p><strong>To see my Webtoon<a href="https://www.webtoons.com/en/challenge/that-world/list?title_no=588216">    Click here</a></p></strong>
+<p><strong>To see my Webtoon<a href="https://www.webtoons.com/en/challenge/that-world/list?title_no=588216">    Click here</a></strong></p>
 
 <p><em>This Webtoon was my Personal Project. I created it to portray the idea of technology that is slowly taking over the world by having more and more people addicted to it. I have not had much experience with digital art and this is only the fourth one i've made so far. The main character, which describes almost every teen is going through a life of hardships because of technology. However, he doesn't know that it is his beloved electronic device that is causing it. There are many consequences in being addicted to Technology nad some may not even know they are. Will the humans be able to control their desire of power and internet, or will the succumb to the lures of the digital world?</em></p>
 <div style="text-align:center">
@@ -125,22 +125,21 @@ margin-top: -6px;
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/0DFD4DE3-1726-4A7E-AD19-73ED453173F3-2%20(1)%20(1).jpg" alt="art picture of mushroom house" style="width:50%">
 </div>
 <div style="text-align:center">
-<h1><strong><em> Our team  deeply apologizes for the 2 art below (artwork #4 and #5) due to the artist Farah can not draw for shi and obviously should never take a career in art. We apologize if we caused any inconvience. </strong></em></h1>
+<h1><strong><em> Our team  deeply apologizes for the 2 art below (artwork #4 and #5) due to the artist Farah can not draw for shi and obviously should never take a career in art. We apologize if we caused any inconvience. </h1></em></strong
 <em><strong><h1 style="color:yellow;">Artwork #4</h1></strong></em>
-</div>
 <p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/cereal.jpg" alt="cereal art" style="width:42%">
 </div>
 <div style="text-align:center">
-<em><strong><h1 style="color:purple;">Artwork #5</h1></strong></em>
+<em><strong><h1 style="color:purple;">Artwork #5</strong></em></h1>
 </div>
 <p><strong><em> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/keychain.jpg" alt="art of a keychain" style="width:50%">
 </div>
 <div style="text-align:center">
-<em><strong><h1 style="color:Aquamarine    ;">Artwork #6</h1></strong></em>
+<em><strong><h1 style="color:Aquamarine    ;">Artwork #6</strong></em></h1>
 </div>
 <p><em> I made this art for my digital art class it took me about 1 hour to sketch and color in and it is a football player. What I like most about this art is how the player looks and is a quarterback. </em></p>
 <div style="text-align:right">
@@ -149,7 +148,7 @@ margin-top: -6px;
 <div style="text-align:center">
 <br>
 </strong></em></h1>
-<em><strong><h1 style="color:Aqua;">Artwork #7</h1></strong></em>
+<em><strong><h1 style="color:Aqua;">Artwork #7</strong></em></h1>
 </div>
 <p><em> I also made this for my digital art class. It was a project for halloween. It took me about 1 hour and was easier than I expected. It is supposed to be a monster. What I liked most about is it the colors and how it looks.</em></p>
 <div style="text-align:right">
@@ -170,6 +169,5 @@ margin-top: -6px;
 
 
 
-</body>
-</html>
+
 
