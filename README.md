@@ -156,11 +156,63 @@ margin-top: -6px;
 <br>
 <em><strong><h1 style="color:#841B2D;">Artwork #8</h1></strong></em>
 </div>
-<p><em> This art was also for my digital art class. It was a project for halloween. It took me about less than 1 hour and was easier than I expected. It is supposed to b. What I liked most about is it the colors and how it looks.</em></p>
+<p><em> This art was also for my digital art class. It was a project for halloween. It took me about less than 1 hour and was easier than I expected. It is supposed to be something related to halloween. What I liked most about is it the colors and how it looks.</em></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/holloween.jpg" alt=" halloween art" style="width:42%">
 </div>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
 
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+</style>
+<body>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+
+
+<script>
+
+var mybutton = document.getElementById("myBtn");
+
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
 
 
 
