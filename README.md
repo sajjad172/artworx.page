@@ -160,6 +160,9 @@ margin-top: -6px;
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/holloween.jpg" alt=" halloween art" style="width:42%">
 </div>
+<br>
+<br>
+<em><strong><h3> well add more art when we have more art</h3></strong></em>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
