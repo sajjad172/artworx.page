@@ -125,7 +125,7 @@ margin-top: -6px;
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/0DFD4DE3-1726-4A7E-AD19-73ED453173F3-2%20(1)%20(1).jpg" alt="art picture of mushroom house" style="width:50%">
 </div>
 <div style="text-align:center">
-<h1><strong><em> Our team  deeply apologizes for the 2 art below (artwork #4 and #5) due to the artist Farah can not draw for shi and obviously should never take a career in art. We apologize if we caused any inconvience. </h1></strong></em>
+<h1><strong><em> Our team  deeply apologizes for the 2 art below (artwork #4 and #5) due to the artist Farah can not draw for shi and obviously should never take a career in art. We apologize if we caused any inconvience. </h1></em></strong>
 <em><strong><h1 style="color:yellow;">Artwork #4</h1></strong></em>
 <p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
 <div style="text-align:right">
