@@ -101,7 +101,6 @@ margin-top: -6px;
 <img src="https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-15/e35/152747673_1295424060858581_9112654619360405392_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=4PA63eOY2C8AX8-Wf7p&tp=1&oh=b0e8b909f63acf2c0d7c3b0746ab75dc&oe=605F86B9&ig_cache_key=MjUxNTc0Mzc0ODc5ODI1NzU4MA%3D%3D.2" width= "300" height= "300">
 <div style="text-align:center">
 <em><strong><h3> Welcome to our art page where you will see all different types of art, have a great experience looking at our art! </strong></em></h3>
-</div>
 <br>
 <div style="text-align:center">
 <em><strong><h1 style="color:red ;">Artwork #1</h1></strong></em>
@@ -134,7 +133,7 @@ margin-top: -6px;
 <div style="text-align:center">
 <em><strong><h1 style="color:purple;">Artwork #5</h1></strong></em>
 </div>
-<p><strong><em> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/keychain.jpg" alt="art of a keychain" style="width:50%">
 </div>
