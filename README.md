@@ -166,7 +166,7 @@ margin-top: -6px;
 </div>
 <br>
 <br>
-<em><strong><h3> well add more art when we have more art</h3></strong></em>
+<em><strong><h3> well add more art when we have more art</strong></em></h3>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
