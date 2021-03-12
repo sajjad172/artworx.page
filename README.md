@@ -166,7 +166,7 @@ margin-top: -6px;
 </div>
 <br>
 <br>
-<em><strong><h3> well add more art when we have more art</strong></em></h3>
+<em><strong><h3> well add more art when we have more art</h3></strong></em>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
@@ -194,7 +194,7 @@ body {
   background-color: #555;
 }
 </style>
-<p><strong><em>If you want to go home</em> <a href="https://sajjad172.github.io/homepage.networx/">Click here</a></p></strong>
+<p><strong><em>If you want to go home</em> <a href="https://sajjad172.github.io/homepage.networx/">Click here</a></strong></p>
 <body>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
