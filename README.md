@@ -167,7 +167,7 @@ margin-top: -6px;
 </div>
 <br>
 <div style="text-align:center">
-<em><strong><h1 style="color:purple;">Artwork #9</h1></strong></em>
+<em><strong><h1 style="color:brown;">Artwork #9</h1></strong></em>
 </div>
 <p>go learn arabic to understand🙄🙄🙄</p>
 <div style="text-align:right">
