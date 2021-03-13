@@ -125,24 +125,48 @@ margin-top: -6px;
 </div>
 <p><em>This is a mushroom house, I dont know why I made it but the idea suddenly popped into my head :)). If you would like to see the video process <a href="https://www.youtube.com/watch?v=xdYoSF43jzQ">    Click here</a>  </em></p> 
 <div style="text-align:right">
-<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/0DFD4DE3-1726-4A7E-AD19-73ED453173F3-2%20(1)%20(1).jpg" alt="art picture of mushroom house" style="width:50%">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/0DFD4DE3-1726-4A7E-AD19-73ED453173F3-2.png" alt="art picture of mushroom house" style="width:50%">
+</div>
+<br>
+<div style="text-align:center">
+<em><strong><h1 style="color:#046582;">Artwork #4</h1></strong></em>
+</div>
+<p><em>j  </em></p> 
+<div style="text-align:right">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/DC3E380F-E6E9-4CEE-A92B-4582551DB334.JPG" alt="art picture " style="width:50%">
+</div>
+<br>
+<div style="text-align:center">
+<em><strong><h1 style="color:#7868e6;">Artwork #5</h1></strong></em>
+</div>
+<p><em>Fan Art </em></p> 
+<div style="text-align:right">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/46948F0D-B998-4062-8E2F-0DBB56AA9EE0.JPG" alt="art picture " style="width:50%">
+</div>
+<br>
+<div style="text-align:center">
+<em><strong><h1 style="color:#ff005c;">Artwork #6</h1></strong></em>
+</div>
+<p><em> Sketch of an eye  </em></p> 
+<div style="text-align:right">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/33FC1765-844F-4F74-B011-EA24C8ACBBFB.JPG" alt="art picture " style="width:50%">
 </div>
 <div style="text-align:center">
 <h1><strong><em> Our team  deeply apologizes for the 2 art below (artwork #4 and #5) due to the artist Farah can not draw for shi and obviously should never take a career in art. We apologize if we caused any inconvience. </em></strong></h1>
-<em><strong><h1 style="color:yellow;">Artwork #4</h1></strong></em>
+<em><strong><h1 style="color:yellow;">Artwork #7</h1></strong></em>
 <p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/cereal.jpg" alt="cereal art" style="width:42%">
 </div>
 <div style="text-align:center">
-<em><strong><h1 style="color:purple;">Artwork #5</h1></strong></em>
+<em><strong><h1 style="color:purple;">Artwork #8</h1></strong></em>
 </div>
 <p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/keychain.jpg" alt="art of a keychain" style="width:50%">
 </div>
 <div style="text-align:center">
-<em><strong><h1 style="color:Aquamarine    ;">Artwork #6</h1></strong></em>
+<em><strong><h1 style="color:Aquamarine    ;">Artwork #9</h1></strong></em>
 </div>
 <p><em> I made this art for my digital art class it took me about 1 hour to sketch and color in and it is a football player. What I like most about this art is how the player looks and is a quarterback. </em></p>
 <div style="text-align:right">
@@ -150,7 +174,7 @@ margin-top: -6px;
 </div>
 <div style="text-align:center">
 <br>
-<em><strong><h1 style="color:Aqua;">Artwork #7</h1></strong></em>
+<em><strong><h1 style="color:Aqua;">Artwork #10</h1></strong></em>
 <p><em> I also made this for my digital art class. It was a project for halloween. It took me about 1 hour and was easier than I expected. It is supposed to be a monster. What I liked most about is it the colors and how it looks.</em></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/33.jpg" alt="art of a halloween character" style="width:30%">
@@ -158,15 +182,68 @@ margin-top: -6px;
 <br>
 <div style="text-align:center">
 <br>
-<em><strong><h1 style="color:#841B2D;">Artwork #8</h1></strong></em>
+<em><strong><h1 style="color:#841B2D;">Artwork #11</h1></strong></em>
 </div>
 <p><em> This art was also for my digital art class. It was a project for halloween. It took me about less than 1 hour and was easier than I expected. It is supposed to be something related to halloween. What I liked most about is it the colors and how it looks.</em></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/holloween.jpg" alt=" halloween art" style="width:42%">
 </div>
 <br>
+<div style="text-align:center">
 <br>
-<em><strong><h3> well add more art when we have more art</h3></strong></em>
+<em><strong><h1 style="color:#c19277;">Artwork #12</h1></strong></em>
+</div>
+<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<div style="text-align:right">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/JU's%20WIND.jpeg" alt="art" style="width:42%">
+</div>
+<br>
+<br>
+<div style="text-align:center">
+<br>
+<em><strong><h1 style="color:#6930c3;">Artwork #13</h1></strong></em>
+</div>
+<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<div style="text-align:right">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/a16%201223%205554%202213.jpeg" alt="art" style="width:42%">
+</div>
+<br>
+<div style="text-align:center">
+<br>
+<br>
+<div style="text-align:center">
+<br>
+<em><strong><h1 style="color:#16c79a;">Artwork #14</h1></strong></em>
+</div>
+<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<div style="text-align:right">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/de0199i.n.jpeg" alt="art" style="width:42%">
+</div>
+<br>
+<div style="text-align:center">
+<br>
+<br>
+<div style="text-align:center">
+<br>
+<em><strong><h1 style="color:#f8dc81;">Artwork #15</h1></strong></em>
+</div>
+<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<div style="text-align:right">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_2910.png" alt="art" style="width:42%">
+</div>
+<br>
+<div style="text-align:center">
+<br>
+<br>
+<div style="text-align:center">
+<br>
+<em><strong><h1 style="color:#c0e218;">Artwork #16</h1></strong></em>
+</div>
+<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<div style="text-align:right">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_2536.jpeg" alt="art" style="width:42%">
+</div>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
@@ -194,7 +271,7 @@ body {
   background-color: #555;
 }
 </style>
-<p><strong><em>If you want to go home</em> <a href="https://sajjad172.github.io/homepage.networx/">Click here</a></strong></p>
+<p><strong><em>If you want to go home</em> <a href="https://sajjad172.github.io/homepage.networx/">Click here</a></p></strong>
 <body>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
