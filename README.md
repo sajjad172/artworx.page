@@ -116,14 +116,14 @@ margin-top: -6px;
 
 <em><strong> <h1 style="color:blue ;"> Artwork #2</h1></strong></em>
 </div>
-<p><em> Since I have been so immersed in my personal project I haven't had time to create a really detailed pieces digitally. I have only had time to make fanart for my idol's birthdays. This above is a fanart I made for jisung park's birthday. </em></p>
+<p> Since I have been so immersed in my personal project I haven't had time to create a really detailed pieces digitally. I have only had time to make fanart for my idol's birthdays. This below is a fanart I made for jisung park's birthday. </p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/F2A4C90F-1F1F-4B9E-A4DA-F66909966E9F.jpg" alt="art picture of character" style="width:50%" >
 </div>
 <div style="text-align:center">
 <em><strong><h1 style="color:green;">Artwork #3</h1></strong></em>
 </div>
-<p><em>This is a mushroom house, I dont know why I made it but the idea suddenly popped into my head :)). If you would like to see the video process <a href="https://www.youtube.com/watch?v=xdYoSF43jzQ">    Click here</a>  </em></p> 
+<p>This is a mushroom house, I dont know why I made it but the idea suddenly popped into my head :)). If you would like to see the video process <a href="https://www.youtube.com/watch?v=xdYoSF43jzQ">    Click here</a>  </p> 
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/0DFD4DE3-1726-4A7E-AD19-73ED453173F3-2.png" alt="art picture of mushroom house" style="width:50%">
 </div>
@@ -131,7 +131,7 @@ margin-top: -6px;
 <div style="text-align:center">
 <em><strong><h1 style="color:#046582;">Artwork #4</h1></strong></em>
 </div>
-<p><em>j  </em></p> 
+<p><em>I just thought of a dude with bunny ears because my favorite animal is a bunny and I for some reason only know how to draw boys.</em></p> 
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/DC3E380F-E6E9-4CEE-A92B-4582551DB334.JPG" alt="art picture " style="width:50%">
 </div>
@@ -147,35 +147,35 @@ margin-top: -6px;
 <div style="text-align:center">
 <em><strong><h1 style="color:#ff005c;">Artwork #6</h1></strong></em>
 </div>
-<p><em> Sketch of an eye  </em></p> 
+<p> Sketch of an eye  </p> 
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/33FC1765-844F-4F74-B011-EA24C8ACBBFB.JPG" alt="art picture " style="width:50%">
 </div>
 <div style="text-align:center">
 <h1><strong><em> Our team  deeply apologizes for the 2 art below (artwork #4 and #5) due to the artist Farah can not draw for shi and obviously should never take a career in art. We apologize if we caused any inconvience. </em></strong></h1>
 <em><strong><h1 style="color:yellow;">Artwork #7</h1></strong></em>
-<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<p>I thought I was Picasso and was gonna draw the travis scott cereal really good even though it took me over 27 hours but i gave up halfway because i cant draw travis and i wasn’t planning on putting it on our website but mr sajjad trynna embarrass me so here it is 😡 </p> 
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/cereal.jpg" alt="cereal art" style="width:42%">
 </div>
 <div style="text-align:center">
 <em><strong><h1 style="color:purple;">Artwork #8</h1></strong></em>
 </div>
-<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<p>This a keychain i made in art class and it’s basically just a keychain i have on my wall and it’s from dubai and it took me like 30 mins.</p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/keychain.jpg" alt="art of a keychain" style="width:50%">
 </div>
 <div style="text-align:center">
 <em><strong><h1 style="color:Aquamarine    ;">Artwork #9</h1></strong></em>
 </div>
-<p><em> I made this art for my digital art class it took me about 1 hour to sketch and color in and it is a football player. What I like most about this art is how the player looks and is a quarterback. </em></p>
+<p>I made this art for my digital art class it took me about 1 hour to sketch and color in and it is a football player. What I like most about this art is how the player looks and is a quarterback. </p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/unnamed%20(4).jpg" alt="art of a football player" style="width:35%">
 </div>
 <div style="text-align:center">
 <br>
 <em><strong><h1 style="color:Aqua;">Artwork #10</h1></strong></em>
-<p><em> I also made this for my digital art class. It was a project for halloween. It took me about 1 hour and was easier than I expected. It is supposed to be a monster. What I liked most about is it the colors and how it looks.</em></p>
+<p> I also made this for my digital art class. It was a project for halloween. It took me about 1 hour and was easier than I expected. It is supposed to be a monster. What I liked most about is it the colors and how it looks.</p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/33.jpg" alt="art of a halloween character" style="width:30%">
 </div>
@@ -184,7 +184,7 @@ margin-top: -6px;
 <br>
 <em><strong><h1 style="color:#841B2D;">Artwork #11</h1></strong></em>
 </div>
-<p><em> This art was also for my digital art class. It was a project for halloween. It took me about less than 1 hour and was easier than I expected. It is supposed to be something related to halloween. What I liked most about is it the colors and how it looks.</em></p>
+<p> This art was also for my digital art class. It was a project for halloween. It took me about less than 1 hour and was easier than I expected. It is supposed to be something related to halloween. What I liked most about is it the colors and how it looks.</p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/holloween.jpg" alt=" halloween art" style="width:42%">
 </div>
@@ -193,7 +193,7 @@ margin-top: -6px;
 <br>
 <em><strong><h1 style="color:#c19277;">Artwork #12</h1></strong></em>
 </div>
-<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<p><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/JU's%20WIND.jpeg" alt="art" style="width:42%">
 </div>
@@ -203,7 +203,7 @@ margin-top: -6px;
 <br>
 <em><strong><h1 style="color:#6930c3;">Artwork #13</h1></strong></em>
 </div>
-<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<p><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/a16%201223%205554%202213.jpeg" alt="art" style="width:42%">
 </div>
@@ -215,7 +215,7 @@ margin-top: -6px;
 <br>
 <em><strong><h1 style="color:#16c79a;">Artwork #14</h1></strong></em>
 </div>
-<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<p><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/de0199i.n.jpeg" alt="art" style="width:42%">
 </div>
@@ -227,7 +227,7 @@ margin-top: -6px;
 <br>
 <em><strong><h1 style="color:#f8dc81;">Artwork #15</h1></strong></em>
 </div>
-<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<p><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_2910.png" alt="art" style="width:42%">
 </div>
@@ -239,7 +239,7 @@ margin-top: -6px;
 <br>
 <em><strong><h1 style="color:#c0e218;">Artwork #16</h1></strong></em>
 </div>
-<p><em><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></em></p>
+<p><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_2536.jpeg" alt="art" style="width:42%">
 </div>
@@ -298,6 +298,14 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
+
+
+
+
+
+
+
+
 
 
 
