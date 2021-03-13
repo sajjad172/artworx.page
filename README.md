@@ -152,7 +152,7 @@ margin-top: -6px;
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/33FC1765-844F-4F74-B011-EA24C8ACBBFB.JPG" alt="art picture " style="width:50%">
 </div>
 <div style="text-align:center">
-<h1><strong><em> Our team  deeply apologizes for the 2 art below (artwork #4 and #5) due to the artist Farah can not draw for shi and obviously should never take a career in art. We apologize if we caused any inconvience. </em></strong></h1>
+<h1><strong><em> Our team  deeply apologizes for the 2 art below (artwork #7 and #8) due to the artist Farah can not draw for shi and obviously should never take a career in art. We apologize if we caused any inconvience. </em></strong></h1>
 <em><strong><h1 style="color:yellow;">Artwork #7</h1></strong></em>
 <p>I thought I was Picasso and was gonna draw the travis scott cereal really good even though it took me over 27 hours but i gave up halfway because i cant draw travis and i wasn’t planning on putting it on our website but mr sajjad trynna embarrass me so here it is 😡 </p> 
 <div style="text-align:right">
@@ -165,8 +165,16 @@ margin-top: -6px;
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/keychain.jpg" alt="art of a keychain" style="width:50%">
 </div>
+<br>
 <div style="text-align:center">
-<em><strong><h1 style="color:Aquamarine    ;">Artwork #9</h1></strong></em>
+<em><strong><h1 style="color:purple;">Artwork #9</h1></strong></em>
+</div>
+<p>go learn arabic to understand🙄🙄🙄</p>
+<div style="text-align:right">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/B3C79B09-4CB1-4FE3-882D-8C18BEB0C28D.JPG" alt="meme" style="width:50%">
+</div>
+<div style="text-align:center">
+<em><strong><h1 style="color:Aquamarine    ;">Artwork #10</h1></strong></em>
 </div>
 <p>I made this art for my digital art class it took me about 1 hour to sketch and color in and it is a football player. What I like most about this art is how the player looks and is a quarterback. </p>
 <div style="text-align:right">
@@ -174,7 +182,7 @@ margin-top: -6px;
 </div>
 <div style="text-align:center">
 <br>
-<em><strong><h1 style="color:Aqua;">Artwork #10</h1></strong></em>
+<em><strong><h1 style="color:Aqua;">Artwork #11</h1></strong></em>
 <p> I also made this for my digital art class. It was a project for halloween. It took me about 1 hour and was easier than I expected. It is supposed to be a monster. What I liked most about is it the colors and how it looks.</p>
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/33.jpg" alt="art of a halloween character" style="width:30%">
@@ -182,7 +190,7 @@ margin-top: -6px;
 <br>
 <div style="text-align:center">
 <br>
-<em><strong><h1 style="color:#841B2D;">Artwork #11</h1></strong></em>
+<em><strong><h1 style="color:#841B2D;">Artwork #12</h1></strong></em>
 </div>
 <p> This art was also for my digital art class. It was a project for halloween. It took me about less than 1 hour and was easier than I expected. It is supposed to be something related to halloween. What I liked most about is it the colors and how it looks.</p>
 <div style="text-align:right">
@@ -191,7 +199,7 @@ margin-top: -6px;
 <br>
 <div style="text-align:center">
 <br>
-<em><strong><h1 style="color:#c19277;">Artwork #12</h1></strong></em>
+<em><strong><h1 style="color:#c19277;">Artwork #13</h1></strong></em>
 </div>
 <p><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></p>
 <div style="text-align:right">
@@ -201,7 +209,7 @@ margin-top: -6px;
 <br>
 <div style="text-align:center">
 <br>
-<em><strong><h1 style="color:#6930c3;">Artwork #13</h1></strong></em>
+<em><strong><h1 style="color:#6930c3;">Artwork #14</h1></strong></em>
 </div>
 <p><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></p>
 <div style="text-align:right">
@@ -213,7 +221,7 @@ margin-top: -6px;
 <br>
 <div style="text-align:center">
 <br>
-<em><strong><h1 style="color:#16c79a;">Artwork #14</h1></strong></em>
+<em><strong><h1 style="color:#16c79a;">Artwork #15</h1></strong></em>
 </div>
 <p><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></p>
 <div style="text-align:right">
@@ -225,7 +233,7 @@ margin-top: -6px;
 <br>
 <div style="text-align:center">
 <br>
-<em><strong><h1 style="color:#f8dc81;">Artwork #15</h1></strong></em>
+<em><strong><h1 style="color:#f8dc81;">Artwork #16</h1></strong></em>
 </div>
 <p><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></p>
 <div style="text-align:right">
@@ -237,7 +245,7 @@ margin-top: -6px;
 <br>
 <div style="text-align:center">
 <br>
-<em><strong><h1 style="color:#c0e218;">Artwork #16</h1></strong></em>
+<em><strong><h1 style="color:#c0e218;">Artwork #17</h1></strong></em>
 </div>
 <p><strong> put information about the art here ( why u made it, what is it, how long it took u, etc basically j a summary)</strong></p>
 <div style="text-align:right">
@@ -298,18 +306,6 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
