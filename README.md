@@ -118,14 +118,14 @@ margin-top: -6px;
 </div>
 <p> Since I have been so immersed in my personal project I haven't had time to create a really detailed pieces digitally. I have only had time to make fanart for my idol's birthdays. This below is a fanart I made for jisung park's birthday. </p>
 <div style="text-align:right">
-<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/F2A4C90F-1F1F-4B9E-A4DA-F66909966E9F.jpg" alt="art picture of character" style="width:50%" >
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/F2A4C90F-1F1F-4B9E-A4DA-F66909966E9F.png" alt="art picture of character" style="width:38%" >
 </div>
 <div style="text-align:center">
 <em><strong><h1 style="color:green;">Artwork #3</h1></strong></em>
 </div>
 <p>This is a mushroom house, I dont know why I made it but the idea suddenly popped into my head :)). If you would like to see the video process <a href="https://www.youtube.com/watch?v=xdYoSF43jzQ">    Click here</a>  </p> 
 <div style="text-align:right">
-<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/0DFD4DE3-1726-4A7E-AD19-73ED453173F3-2.png" alt="art picture of mushroom house" style="width:50%">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/0DFD4DE3-1726-4A7E-AD19-73ED453173F3-2.png" alt="art picture of mushroom house" style="width:39%">
 </div>
 <br>
 <div style="text-align:center">
@@ -133,7 +133,7 @@ margin-top: -6px;
 </div>
 <p><em>I just thought of a dude with bunny ears because my favorite animal is a bunny and I for some reason only know how to draw boys.</em></p> 
 <div style="text-align:right">
-<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/DC3E380F-E6E9-4CEE-A92B-4582551DB334.JPG" alt="art picture " style="width:50%">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/DC3E380F-E6E9-4CEE-A92B-4582551DB334.JPG" alt="art picture " style="width:39%">
 </div>
 <br>
 <div style="text-align:center">
@@ -141,7 +141,7 @@ margin-top: -6px;
 </div>
 <p><em>Fan Art </em></p> 
 <div style="text-align:right">
-<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/46948F0D-B998-4062-8E2F-0DBB56AA9EE0.JPG" alt="art picture " style="width:50%">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/46948F0D-B998-4062-8E2F-0DBB56AA9EE0.JPG" alt="art picture " style="width:39%">
 </div>
 <br>
 <div style="text-align:center">
@@ -149,7 +149,7 @@ margin-top: -6px;
 </div>
 <p> Sketch of an eye  </p> 
 <div style="text-align:right">
-<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/33FC1765-844F-4F74-B011-EA24C8ACBBFB.JPG" alt="art picture " style="width:50%">
+<img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/33FC1765-844F-4F74-B011-EA24C8ACBBFB.JPG" alt="art picture " style="width:39%">
 </div>
 <div style="text-align:center">
 <h1><strong><em> Our team  deeply apologizes for the 2 art below (artwork #7 and #8) due to the artist Farah can not draw for shi and obviously should never take a career in art. We apologize if we caused any inconvience. </em></strong></h1>
