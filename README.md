@@ -251,7 +251,7 @@ margin-top: -6px;
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_2536.jpeg" alt="art" style="width:42%">
 </div>
-
+<p><strong><em>Thank you for viewing our Art page if you would like to go home </em> <a  href="https://sajjad172.github.io/homepage.networx/">Click here</a></strong></p>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
