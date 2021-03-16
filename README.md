@@ -152,7 +152,6 @@ margin-top: -6px;
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/33FC1765-844F-4F74-B011-EA24C8ACBBFB.JPG" alt="art picture " style="width:39%">
 </div>
 <div style="text-align:center">
-<h1><strong><em> Our team  deeply apologizes for the 2 art below (artwork #7 and #8) due to the artist Farah can not draw for shi and obviously should never take a career in art. We apologize if we caused any inconvience. </em></strong></h1>
 <em><strong><h1 style="color:yellow;">Artwork #7</h1></strong></em>
 <p>I thought I was Picasso and was gonna draw the travis scott cereal really good even though it took me over 27 hours but i gave up halfway because i cant draw travis and i wasn’t planning on putting it on our website but mr sajjad trynna embarrass me so here it is 😡 </p> 
 <div style="text-align:right">
