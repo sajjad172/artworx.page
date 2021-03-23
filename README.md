@@ -101,8 +101,9 @@ margin-top: -6px;
   
   </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<div style="text-align:center">
 <img src="https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg" alt="Logo" style="width:50%" >
+</div>
 <div style="text-align:center">
 <em><strong><h3> Welcome to our art page where you will see all different types of art, have a great experience looking at our art! </h3></strong></em>
 <br>
