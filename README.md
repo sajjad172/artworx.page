@@ -100,6 +100,7 @@ margin-top: -6px;
    <a href="https://sajjad172.github.io/sumbit.art/" class="right" class="center">Submit your Art!</a>
   
   </div>
+  <img align="middle">
   <img src="https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg" alt="Logo" style="width:50%" >
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
