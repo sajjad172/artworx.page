@@ -100,7 +100,9 @@ margin-top: -6px;
    <a href="https://sajjad172.github.io/sumbit.art/" class="right" class="center">Submit your Art!</a>
   
   </div>
- 
+ <br>
+ <br>
+ <br>
 <div style="text-align:center">
 
 
