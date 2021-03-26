@@ -100,11 +100,13 @@ margin-top: -6px;
    <a href="https://sajjad172.github.io/sumbit.art/" class="right" class="center">Submit your Art!</a>
   
   </div>
-  
-  <img src="https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg" alt="Logo" style="width:50%" img align="middle">
+ 
+<div style="text-align:center">
+
+
+  <img src="https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg" alt="Logo" style="width:45%" >
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<div style="text-align:center">
 <em><strong><h3> Welcome to our art page where you will see all different types of art, have a great experience looking at our art! </h3></strong></em>
 <br>
 <div style="text-align:center">
@@ -136,7 +138,7 @@ margin-top: -6px;
 <em><strong><h1 style="color:#046582;">Artwork #4</h1></strong></em>
 </div>
 <h5>By Anna</h5>
-<p><em>I just thought of a dude with bunny ears because my favorite animal is a bunny and I for some reason only know how to draw boys.</em></p> 
+<p>I just thought of a dude with bunny ears because my favorite animal is a bunny and I for some reason only know how to draw boys.</p> 
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/DC3E380F-E6E9-4CEE-A92B-4582551DB334.JPG" alt="art picture " style="width:39%">
 </div>
@@ -145,7 +147,7 @@ margin-top: -6px;
 <em><strong><h1 style="color:#7868e6;">Artwork #5</h1></strong></em>
 </div>
 <h5>By Anna</h5>
-<p><em>Fan Art </em></p> 
+<p>Fan Art </p> 
 <div style="text-align:right">
 <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/46948F0D-B998-4062-8E2F-0DBB56AA9EE0.JPG" alt="art picture " style="width:39%">
 </div>
@@ -324,3 +326,6 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
+
+
+
